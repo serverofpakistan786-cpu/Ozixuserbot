@@ -28,7 +28,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(
         f"👋 Hello {update.effective_user.first_name}\n\n"
-        f"🤖 Main *King User Bot* hoon\n"
+        f"🤖 Main *ozix User Bot* hoon\n"
         f"⚡ Free Plan Compatible\n"
         f"👑 Owner: {config.OWNER_NAME}",
         reply_markup=InlineKeyboardMarkup(keyboard),
