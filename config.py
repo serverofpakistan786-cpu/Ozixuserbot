@@ -1,7 +1,7 @@
 BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
 
-OWNER_ID = 123456789
-OWNER_NAME = "King Developer"
+OWNER_ID = 7088510448
+OWNER_NAME = "PMOZIX68"
 
-SUPPORT_CHANNEL = "https://t.me/YourSupportChannel"
-GROUP_LINK = "https://t.me/YourGroupLink"
+SUPPORT_CHANNEL = "https://t.me/PMOZIX068"
+GROUP_LINK = "https://t.me/+9lOoGu_glUA0ZGVl"
